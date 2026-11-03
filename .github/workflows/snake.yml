@@ -1,4 +1,4 @@
-```yaml
+
 name: Contribution Snake
 
 'on':
@@ -32,4 +32,3 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-```
