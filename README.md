@@ -63,8 +63,7 @@
   Six service cards in two columns. The animated workstation GIF is shown
   in the right-side area. Keep final.gif inside the assets/ folder.
 -->
-<table width="100%" border="0" cellpadding="5" cellspacing="0">
-  <tr>
+
     <td width="33%" valign="middle">
       <a href="#contact-links">
         <picture>
@@ -121,7 +120,7 @@
       </a>
     </td>
   </tr>
-</table>
+
 
 <br>
 
