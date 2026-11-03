@@ -94,14 +94,16 @@ Working on practical analytics projects focused on real-world business challenge
 
 ## MY CONTRIBUTION SNAKE 🐍
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shehnaz-R/Shehnaz-/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shehnaz-R/Shehnaz-/output/snake-light.svg">
-    <img src="https://raw.githubusercontent.com/Shehnaz-R/Shehnaz-/output/snake-light.svg" width="100%" alt="GitHub contribution snake animation"/>
-  </picture>
-</p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shehnaz-R/Shehnaz-/output/snake-dark.svg">
+  <img
+    src="https://raw.githubusercontent.com/Shehnaz-R/Shehnaz-/output/snake-light.svg"
+    width="100%"
+    alt="GitHub contribution graph being eaten by a snake">
+</picture>
+<br><br>
 ---
 
 ## LET'S CONNECT
