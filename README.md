@@ -1,98 +1,72 @@
-# Hi, I'm Shehnaz Rangrez 👋
+\<a href="[https://www.victorstudios.org/en](https://www.victorstudios.org/en)">\<img src="assets/hero.svg" width="100%" alt="Victor Studios: I design and build Framer websites, AI agents, full AI web and mobile apps, and Web3 platforms. 7+ years, 200+ projects.">\</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=220&section=header&text=Turning%20Data%20Into%20Insights&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Problem%20Solving&descAlignY=58&descSize=15" width="100%" alt="Turning Data Into Insights"/>
-</p>
+\<p align="center">
+\<a href="[https://www.victorstudios.org/en](https://www.victorstudios.org/en)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-site.svg">\<img src="assets/light/l-site.svg" height="34" alt="Website">\</picture>\</a>
+\<a href="[https://www.framer.com/@vstd/](https://www.framer.com/@vstd/)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-framer.svg">\<img src="assets/light/l-framer.svg" height="34" alt="Framer">\</picture>\</a>
+\<a href="[https://contra.com/victorstudios](https://contra.com/victorstudios)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-contra.svg">\<img src="assets/light/l-contra.svg" height="34" alt="Contra">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios](https://www.fiverr.com/victorstudios)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-fiverr.svg">\<img src="assets/light/l-fiverr.svg" height="34" alt="Fiverr">\</picture>\</a>
+\<a href="[https://x.com/vs_web3](https://x.com/vs_web3)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-x.svg">\<img src="assets/light/l-x.svg" height="34" alt="X">\</picture>\</a>
+\<a href="[https://www.youtube.com/@vic_std](https://www.youtube.com/@vic_std)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-youtube.svg">\<img src="assets/light/l-youtube.svg" height="34" alt="YouTube">\</picture>\</a>
+\<a href="[https://www.instagram.com/vs_web3/](https://www.instagram.com/vs_web3/)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-instagram.svg">\<img src="assets/light/l-instagram.svg" height="34" alt="Instagram">\</picture>\</a>
+\<a href="[https://www.linkedin.com/in/72salman/](https://www.linkedin.com/in/72salman/)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/l-linkedin.svg">\<img src="assets/light/l-linkedin.svg" height="34" alt="LinkedIn">\</picture>\</a>
+\</p>
 
-<p align="center">
-  <a href="https://github.com/Shehnaz-R">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/now\.svg">\<img src="assets/light/now\.svg" width="100%" alt="Now: shipping SYVO, a personal AI agent, in private pilot. Open for Framer, AI and Web3 projects.">\</picture>
+\<br>\<br>
 
----
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg">\<img src="assets/light/s01.svg" width="100%" alt="Products I've built">\</picture>
 
-## ABOUT ME
+\<p align="center">
+\<a href="[https://xoxi.me](https://xoxi.me)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-xoxi.svg">\<img src="assets/light/p-xoxi.svg" width="32%" alt="XOXI: Your CV becomes a verified portfolio you can apply with. AI match scores for the teams hiring.">\</picture>\</a>
+\<a href="[https://syvo.si](https://syvo.si)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-syvo.svg">\<img src="assets/light/p-syvo.svg" width="32%" alt="SYVO: A personal AI agent. Ask in plain words and it finds, books or sells for you, then waits for your OK.">\</picture>\</a>
+\<a href="[https://lovii.app](https://lovii.app)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/p-lovii.svg">\<img src="assets/light/p-lovii.svg" width="32%" alt="LOVII: A private journal for couples. One short note a day, drawn by AI as an illustrated card.">\</picture>\</a>
+\</p>
+\<br>
 
-I'm a B.Sc. IT graduate interested in Data Analytics, Business Intelligence, and solving real-world business problems through data.
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg">\<img src="assets/light/s02.svg" width="100%" alt="What I can do for you">\</picture>
 
-I enjoy transforming raw datasets into meaningful insights, building interactive dashboards, and communicating findings that support better business decisions.
+\<p align="center">
+\<a href="[https://www.fiverr.com/victorstudios/build-a-responsive-framer-website-with-scroll-animations](https://www.fiverr.com/victorstudios/build-a-responsive-framer-website-with-scroll-animations)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-framer.svg">\<img src="assets/light/sv-framer.svg" width="32%" alt="Framer websites: Responsive sites with real scroll motion, CMS and SEO, from Figma or from scratch.">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios/build-ai-agents-chatbots-and-automations-for-your-business](https://www.fiverr.com/victorstudios/build-ai-agents-chatbots-and-automations-for-your-business)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-agents.svg">\<img src="assets/light/sv-agents.svg" width="32%" alt="AI agents & automations: Chatbots, n8n and Make workflows and custom agents that do real work.">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios/do-full-ai-app-development-web-app-mobile-app-and-website](https://www.fiverr.com/victorstudios/do-full-ai-app-development-web-app-mobile-app-and-website)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-aiapps.svg">\<img src="assets/light/sv-aiapps.svg" width="32%" alt="Full AI web & mobile apps: Website, web app and iOS + Android apps, designed and built end to end.">\</picture>\</a>
+\</p>
 
-- 📊 Interested in Data Analytics & Business Analysis
-- 📈 Building end-to-end analytics projects
-- 🧹 Experienced in data cleaning, validation and reporting
-- 💡 Focused on business problem-solving and data storytelling
-- 🚀 Continuously learning and improving my analytical skills
+\<p align="center">
+\<a href="[https://www.fiverr.com/victorstudios/design-modern-app-and-web-ui-ux](https://www.fiverr.com/victorstudios/design-modern-app-and-web-ui-ux)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-uiux.svg">\<img src="assets/light/sv-uiux.svg" width="32%" alt="UI/UX design: Websites, dashboards and mobile apps in Figma with clickable prototypes.">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios/build-wordpress-website-shopify-store-or-woocommerce-store](https://www.fiverr.com/victorstudios/build-wordpress-website-shopify-store-or-woocommerce-store)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-wpshop.svg">\<img src="assets/light/sv-wpshop.svg" width="32%" alt="WordPress & Shopify: Business sites and online stores that are easy to run after launch.">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios/design-nft-marketplace-website-design](https://www.fiverr.com/victorstudios/design-nft-marketplace-website-design)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-nftweb.svg">\<img src="assets/light/sv-nftweb.svg" width="32%" alt="NFT & Web3 websites: Marketplaces, mint pages and landing pages that make wallets feel simple.">\</picture>\</a>
+\</p>
 
----
+\<p align="center">
+\<a href="[https://www.fiverr.com/victorstudios/develop-dapps-nft-mint-on-ethereum-polygon-solana](https://www.fiverr.com/victorstudios/develop-dapps-nft-mint-on-ethereum-polygon-solana)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-dapp.svg">\<img src="assets/light/sv-dapp.svg" width="32%" alt="Smart contracts & dApps: NFT minting dApps and contracts on Ethereum, Polygon and Solana.">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios/create-web3-crypto-website-for-your-meme-coin](https://www.fiverr.com/victorstudios/create-web3-crypto-website-for-your-meme-coin)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-memecoin.svg">\<img src="assets/light/sv-memecoin.svg" width="32%" alt="Meme coin websites: Loud, fun coin sites with tokenomics, presale pages and buy flows.">\</picture>\</a>
+\<a href="[https://www.fiverr.com/victorstudios/create-a-modern-minimalist-logo-for-nfts](https://www.fiverr.com/victorstudios/create-a-modern-minimalist-logo-for-nfts)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-brand.svg">\<img src="assets/light/sv-brand.svg" width="32%" alt="Logo & brand identity: Minimal logos and brand kits for startups, products and Web3 projects.">\</picture>\</a>
+\</p>
 
-## TECH STACK
+\<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,github,vscode" alt="Technology stack"/>
-</p>
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg">\<img src="assets/light/s03.svg" width="100%" alt="Selected client work">\</picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge"/>
-</p>
+\<p align="center">
+\<a href="[https://www.behance.net/gallery/232965655/Medelz-Music-Streaming-Artist-Discovery-Platform](https://www.behance.net/gallery/232965655/Medelz-Music-Streaming-Artist-Discovery-Platform)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-medelz.svg">\<img src="assets/light/w-medelz.svg" width="32%" alt="Medelz, music platform">\</picture>\</a>
+\<a href="[https://www.behance.net/gallery/232893223/Smart-Forum-Technology-Services-Website](https://www.behance.net/gallery/232893223/Smart-Forum-Technology-Services-Website)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-smartforum.svg">\<img src="assets/light/w-smartforum.svg" width="32%" alt="Smart Forum, it services">\</picture>\</a>
+\<a href="[https://www.behance.net/gallery/232892185/SatHoller-NFT-Auction-Bidding-Platform](https://www.behance.net/gallery/232892185/SatHoller-NFT-Auction-Bidding-Platform)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-satholler.svg">\<img src="assets/light/w-satholler.svg" width="32%" alt="SatHoller, nft auctions">\</picture>\</a>
+\</p>
 
----
+\<p align="center">
+\<a href="[https://www.behance.net/gallery/232883891/MetaAdsFirm-Web3-Metaverse-Smart-Contract-Solutions](https://www.behance.net/gallery/232883891/MetaAdsFirm-Web3-Metaverse-Smart-Contract-Solutions)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-metaadsfirm.svg">\<img src="assets/light/w-metaadsfirm.svg" width="32%" alt="MetaAdsFirm, web3 agency">\</picture>\</a>
+\<a href="[https://www.behance.net/gallery/232881881/The-Black-Momento](https://www.behance.net/gallery/232881881/The-Black-Momento)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-blackmomento.svg">\<img src="assets/light/w-blackmomento.svg" width="32%" alt="The Black Momento, e-commerce">\</picture>\</a>
+\<a href="[https://www.behance.net/gallery/232882337/Blckbuster-Digital-Marketplace-for-Movie-Rights](https://www.behance.net/gallery/232882337/Blckbuster-Digital-Marketplace-for-Movie-Rights)">\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/w-blckbuster.svg">\<img src="assets/light/w-blckbuster.svg" width="32%" alt="Blckbuster, web3 marketplace">\</picture>\</a>
+\</p>
 
-## FEATURED PROJECTS
+\<br>
 
-### 🛒 NovaMart – E-Commerce Analytics Dashboard
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg">\<img src="assets/light/s04.svg" width="100%" alt="Tools I ship with">\</picture>
 
-End-to-end e-commerce analytics project exploring marketplace performance, sales trends, delivery efficiency and seller reliability.
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">\<img src="assets/light/stack.svg" width="100%" alt="Figma, Framer, React, Next.js, TypeScript, Tailwind, Flutter, Node.js, Python, Supabase, Firebase, OpenAI, Claude, n8n, Solidity, Ethereum, Solana, WordPress, Shopify">\</picture>
+\<br>\<br>
 
-- Data cleaning and transformation
-- SQL-based data analysis
-- Interactive Power BI dashboard
-- Business insights and performance tracking
-
-**Tools:** SQL | Excel | Power BI
-
-### 📊 Business Intelligence & Data Analytics
-
-Working on practical analytics projects focused on real-world business challenges, KPI tracking, data visualization and actionable recommendations.
-
-**Tools:** Python | SQL | Excel | Power BI | Tableau
-
----
-
-## WHAT I'M WORKING ON
-
-- Building industry-oriented end-to-end analytics case studies.
-- Improving SQL and Python problem-solving skills.
-- Developing interactive Power BI dashboards.
-- Learning to translate business requirements into analytical solutions.
-- Strengthening data storytelling and business communication.
-
----
-
-## GITHUB STATISTICS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shehnaz-R&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shehnaz-R&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehnaz-R&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
----
-
-## MY CONTRIBUTION SNAKE 🐍
+\<picture>\<source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg">\<img src="assets/light/s05.svg" width="100%" alt="Building in public">\</picture>
 
 <picture>
   <source
@@ -104,23 +78,8 @@ Working on practical analytics projects focused on real-world business challenge
     alt="GitHub contribution graph being eaten by a snake">
 </picture>
 <br><br>
----
 
-## LET'S CONNECT
+\<a href="[https://www.victorstudios.org/en](https://www.victorstudios.org/en)">\<img src="assets/cta.svg" width="100%" alt="Have a project in mind? Let's build it together. Get a quote at victorstudios.org">\</a>
 
-<p align="center">
-  <a href="https://github.com/Shehnaz-R">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
 
-<p align="center">
-  <i>"Turning data into insights, and insights into better decisions."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=100&section=footer" width="100%" alt="Footer"/>
-</p>
+\<!-- Graphics are generated by tools/build.py in the Victor Studios palette. -->
