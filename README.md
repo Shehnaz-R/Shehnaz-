@@ -24,7 +24,7 @@
 </picture>
 
 <br><br>
-
+<!-- -----------------------------products ------------------------>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg">
   <img src="assets/light/s01.svg" width="100%" alt="Products and projects">
@@ -51,77 +51,54 @@
   </a>
 </p>
 
-<br>
-
-<a id="services"></a>
+<br><a id="services"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg">
   <img src="assets/light/s02.svg" width="100%" alt="What I can do for you">
 </picture>
 
-<!--
-  Six service cards in two columns. The animated workstation GIF is shown
-  in the right-side area. Keep final.gif inside the assets/ folder.
--->
-<table width="100%" border="0" cellpadding="5" cellspacing="0">
-  <tr>
-    <td width="33%" valign="middle">
-      <a href="#contact-links">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-framer.svg">
-          <img src="assets/light/sv-framer.svg" width="100%" alt="Framer websites">
-        </picture>
-      </a>
-    </td>
-    <td width="33%" valign="middle">
-      <a href="#contact-links">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-agents.svg">
-          <img src="assets/light/sv-agents.svg" width="100%" alt="AI agents and automations">
-        </picture>
-      </a>
-    </td>
-    <td width="34%" rowspan="3" align="center" valign="middle">
-      <img src="assets/final.gif" width="100%" alt="Animated illustration of a designer working at a dual-monitor workstation">
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="middle">
-      <a href="#contact-links">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-aiapps.svg">
-          <img src="assets/light/sv-aiapps.svg" width="100%" alt="Full AI web and mobile apps">
-        </picture>
-      </a>
-    </td>
-    <td width="33%" valign="middle">
-      <a href="#contact-links">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-uiux.svg">
-          <img src="assets/light/sv-uiux.svg" width="100%" alt="UI and UX design">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="middle">
-      <a href="#contact-links">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-wpshop.svg">
-          <img src="assets/light/sv-wpshop.svg" width="100%" alt="WordPress and Shopify">
-        </picture>
-      </a>
-    </td>
-    <td width="33%" valign="middle">
-      <a href="#contact-links">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-nftweb.svg">
-          <img src="assets/light/sv-nftweb.svg" width="100%" alt="NFT and Web3 websites">
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <img align="right" src="assets/final.gif" width="34%" alt="Animated illustration of a designer working at a dual-monitor workstation">
+  <a href="#contact-links">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-framer.svg">
+      <img src="assets/light/sv-framer.svg" width="31%" alt="Framer websites">
+    </picture>
+  </a>
+  <a href="#contact-links">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-agents.svg">
+      <img src="assets/light/sv-agents.svg" width="31%" alt="AI agents and automations">
+    </picture>
+  </a>
+  <br>
+  <a href="#contact-links">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-aiapps.svg">
+      <img src="assets/light/sv-aiapps.svg" width="31%" alt="Full AI web and mobile apps">
+    </picture>
+  </a>
+  <a href="#contact-links">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-uiux.svg">
+      <img src="assets/light/sv-uiux.svg" width="31%" alt="UI and UX design">
+    </picture>
+  </a>
+  <br>
+  <a href="#contact-links">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-wpshop.svg">
+      <img src="assets/light/sv-wpshop.svg" width="31%" alt="WordPress and Shopify">
+    </picture>
+  </a>
+  <a href="#contact-links">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark/sv-nftweb.svg">
+      <img src="assets/light/sv-nftweb.svg" width="31%" alt="NFT and Web3 websites">
+    </picture>
+  </a>
+</p>
+<br clear="all">
 
 <br>
 
@@ -197,7 +174,7 @@
 </picture>
 
 <br><br>
-
+<!-- ----------------------------Contact---------------------------------------- -->
 <a id="contact"></a>
 <img src="assets/cta.svg" width="100%" alt="Have a project in mind? Let's build it together.">
 
